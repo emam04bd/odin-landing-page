@@ -204,3 +204,13 @@ h2 {
   border: 2px solid #f9faf8;
   border-radius: 8px;
 }
+
+.footer {
+  font-size: 16px;
+  color: #e5e7eb;
+  background-color: #1f2937;
+  padding: 50px 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
